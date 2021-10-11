@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cjtrahey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cjtrahey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christopher-john-trahey-b9028a187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christopher-john-trahey-b9028a187/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christopher-john-trahey-b9028a187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christopher-john-trahey-b9028a187/" height="30" width="40" /></a>
 <a href="https://discord.gg/Viddas#7890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Viddas#7890" height="30" width="40" /></a>
 </p>
 
