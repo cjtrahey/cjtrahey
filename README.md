@@ -1,5 +1,5 @@
 <h1 align="center">👋 The name's John. Christopher-John (Trahey).</h1>
-<h3 align="center">Architecture major turned developer attending The Ohio State University's Digital Boot Camp.</h3>
+<h3 align="center">Full Stack Flex Boot Camp Graduate from The Ohio State University. Former student of Architecture.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjtrahey&label=Profile%20views&color=0e75b6&style=flat" alt="cjtrahey" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cjtrahey" target="blank"><img src="https://img.shields.io/twitter/follow/cjtrahey?logo=twitter&style=for-the-badge" alt="cjtrahey" /></a> </p>
 
-- 🔭 I’m currently working on [my final project!](https://github.com/cjtrahey/game-dungeon)
+- 🔭 I’m currently working on revamping my portfolio!
 
 - 🌱 I’m currently learning **React, JavaScript, Redux**
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X6klz6DOZrMNqVHDggveoPLvRGzY3xLd/view?usp=sharing](https://drive.google.com/file/d/1X6klz6DOZrMNqVHDggveoPLvRGzY3xLd/view?usp=sharing)
 
-- ⚡ Fun fact **I am an avid fan of Overwatch! I've explored the competitive scene before and really liked the environment.**
+- ⚡ Fun fact **I love game design concepts! I am a fan of all things player-experience related.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
