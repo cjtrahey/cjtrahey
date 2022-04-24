@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on revamping my portfolio!
 
-- 🌱 I’m currently learning **React, JavaScript, Redux**
+- 🌱 I’m currently learning **JavaScript, Swift, and React**
 
 - 👯 I’m looking to collaborate on **visually-stimulating projects.**
 
