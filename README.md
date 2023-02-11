@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **learning as much about what your passion is, whether it be language learning or concepts you are interested in.**
 
-- 👨‍💻 All of my projects are available [on my portfolio!](cjtrahey.com)
+- 👨‍💻 All of my projects are available [on my portfolio!](https://www.cjtrahey.com)
 
 - 💬 Ask me about **front-end design concepts**
 
