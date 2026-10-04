@@ -1,11 +1,5 @@
 <h1 align="center">👋 The name's John. Christopher-John (Trahey).</h1>
-<h3 align="center">CIS Student at Columbus State Community College. Former student of Architecture.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cjtrahey&label=Profile%20views&color=0e75b6&style=flat" alt="cjtrahey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjtrahey" alt="cjtrahey" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/cjtrahey" target="blank"><img src="https://img.shields.io/twitter/follow/cjtrahey?logo=twitter&style=for-the-badge" alt="cjtrahey" /></a> </p>
+<h3 align="center">Computer & Information Science Student at Columbus State Community College. Former student of Architecture.</h3>
 
 - 🔭 I’m currently working on my degree!
 
